@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="bosch">
+    <file>imgs/logo.png</file>
+  </qresource>
+  <qresource prefix="lock">
+    <file>imgs/lock.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>imgs/Bosch.jpg</file>
+  </qresource>
+  <qresource prefix="side">
+    <file>imgs/faixaMaior.png</file>
+  </qresource>
+</RCC>
